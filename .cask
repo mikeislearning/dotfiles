@@ -15,9 +15,13 @@ brew install bash
 brew install brew-cask
 brew install berkeley-db
 brew install cowsay
+# Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
+brew install coreutils
 brew install csshX
 brew install erlang-r16
 brew install elixir
+# Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
+brew install findutils
 brew install goaccess
 brew install gtypist
 brew install gsl114
@@ -26,22 +30,34 @@ brew install hub
 brew install imagemagick
 brew install imagesnap
 sudo ln -s /usr/local/bin/imagesnap /usr/bin/
+brew install lynx
 brew install mercurial
 brew install mysql
 brew install most
 brew install mobile-shell
+# Install RingoJS and Narwhal
+# Note that the order in which these are installed is important; see http://git.io/brew-narwhal-ringo.
+brew install ringojs
+brew install narwhal
+
 brew install v8
 
 brew install legit
 legit install
 
+brew install pigz
 brew install pv
 brew install node
 brew install phantomjs
+brew install p7zip
+brew install rename
+brew install rhino
+brew install webkit2png
 brew install qt
 brew install rust
 brew install ssh-copy-id
 brew install sqlite
+brew install tree
 brew install tig
 brew install the_silver_searcher
 brew install tmux
@@ -102,6 +118,7 @@ brew cask install sublime-text
 brew cask install tor-browser
 brew cask install ukelele
 
-
+tap homebrew/versions
+install lua52
 
 brew cleanup
