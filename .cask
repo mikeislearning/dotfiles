@@ -79,6 +79,7 @@ brew cask install f-lux
 brew cask install fantastical 
 brew cask install iterm2 
 brew cask install textexpander  
+brew cask install grooveshark
 brew cask install transmit 
 brew cask install macvim 
 brew cask install omni-focus 
