@@ -22,6 +22,7 @@ brew install erlang-r16
 brew install elixir
 # Install GNU `find`, `locate`, `updatedb`, and `xargs`, g-prefixed
 brew install findutils
+brew install fortune
 brew install goaccess
 brew install gtypist
 brew install gsl114
