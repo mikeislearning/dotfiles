@@ -1,7 +1,20 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-	"default_line_ending": "unix",
-	"show_line_endings": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 20,
+        "auto_complete_with_fields": true,
+        "auto_find_in_selction": true,
+        "bold_folder_labels": true,
+        "caret_style": "phase",
+        "close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+        "detect_slow_plugins": false,
+        "drag_text": false,
+        "draw_indent_guides": true,
+        "draw_white_space": "selection",
+        "enable_telemetry": false,
+        "ensure_newline_at_eof_on_save": true,
+	//"default_line_ending": "unix",
+	//"show_line_endings": true,
 	"default_encoding": "UTF-8",
 	"show_encoding": true,
 	"detect_indentation": false,
@@ -22,18 +35,24 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 14,
+	"ignored_packages": [
+        	"Vintage"
+        ],
+	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 6,
 	"match_brackets": true,
 	"match_brackets_angle": true,
-	"remember_open_files": false,
+	"remember_open_files": true,
+        "remember_open_folders": true,
+        "scroll_past_end": true,
+        "show_full_path": true,
 	"rulers":
 	[
 		80
 	],
-	"tab_size": 2,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
