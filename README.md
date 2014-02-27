@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Mike borrowed Mathias’s dotfiles
 
 ## Installation
 
