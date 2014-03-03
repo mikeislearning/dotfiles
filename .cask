@@ -13,6 +13,7 @@ brew install aiccu
 brew install aspell
 brew install bash
 brew install brew-cask
+brew install cask
 brew install berkeley-db
 brew install cowsay
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -68,6 +69,7 @@ brew install wget --enable-iri
 brew cask install rdio
 brew cask install alfred
 brew cask alfred link
+brew cast install flash
 brew cask install google-chrome 
 brew cask install charles 
 brew cask install mou 
