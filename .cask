@@ -108,6 +108,7 @@ brew cask install skype
 brew cask install launch-control
 brew cask install instacast
 brew cask install rubymine
+brew cask install spectacle
 brew cask install macupdate-desktop
 brew cask install omnioutliner
 brew cask install growlnotify
