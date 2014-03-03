@@ -124,7 +124,7 @@ brew cask install sublime-text
 brew cask install tor-browser
 brew cask install ukelele
 
-tap homebrew/versions
+brew tap homebrew/versions
 install lua52
 
 brew cleanup
