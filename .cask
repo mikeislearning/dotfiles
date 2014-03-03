@@ -74,6 +74,7 @@ brew cask install mou
 brew cask install dropbox 
 brew cask install bittorrent-sync 
 brew cask install bartender 
+brew cask install poedit
 brew cask install evernote 
 brew cask install f-lux 
 brew cask install fantastical 
