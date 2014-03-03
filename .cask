@@ -86,6 +86,7 @@ brew cask install omni-focus
 brew cask install virtualbox 
 brew cask install vlc 
 brew cask install transmission 
+brew cask install filezilla
 brew cask install sequel-pro 
 brew cask install alfred 
 brew cask install firefox 
