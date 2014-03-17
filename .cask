@@ -83,7 +83,6 @@ brew cask install fantastical
 brew cask install iterm2 
 brew cask install textexpander  
 brew cask install grooveshark
-brew cask install transmit 
 brew cask install macvim 
 brew cask install omni-focus 
 brew cask install virtualbox 
@@ -97,7 +96,7 @@ brew cask install onepassword
 brew cask install viscosity 
 brew cask install clean-my-mac 
 brew cask install picturesque 
-brew cask install tower 
+brew cask install sourcetree 
 brew cask install reggy 
 brew cask install soulver 
 brew cask install the-unarchiver 
