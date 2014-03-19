@@ -78,11 +78,9 @@ brew cask install bittorrent-sync
 brew cask install bartender 
 brew cask install poedit
 brew cask install evernote 
-brew cask install f-lux 
 brew cask install fantastical 
 brew cask install iterm2 
 brew cask install textexpander  
-brew cask install grooveshark
 brew cask install macvim 
 brew cask install omni-focus 
 brew cask install virtualbox 
@@ -108,7 +106,6 @@ brew cask install trim-enabler
 brew cask install skype
 brew cask install launch-control
 brew cask install instacast
-brew cask install rubymine
 brew cask install spectacle
 brew cask install macupdate-desktop
 brew cask install omnioutliner
@@ -121,7 +118,6 @@ brew cask install imageoptim
 brew cask install miro-video-converter
 brew cask install sublime-text
 brew cask install tor-browser
-brew cask install ukelele
 
 brew tap homebrew/versions
 install lua52
