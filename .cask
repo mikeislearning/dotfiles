@@ -82,7 +82,6 @@ brew cask install fantastical
 brew cask install iterm2 
 brew cask install textexpander  
 brew cask install macvim 
-brew cask install omni-focus 
 brew cask install virtualbox 
 brew cask install vlc 
 brew cask install transmission 
@@ -98,26 +97,21 @@ brew cask install sourcetree
 brew cask install reggy 
 brew cask install soulver 
 brew cask install the-unarchiver 
-brew cask install geek-bench 
 brew cask install self-control 
 brew cask install vagrant 
 brew cask install kaleidoscope 
 brew cask install trim-enabler
 brew cask install skype
-brew cask install launch-control
 brew cask install instacast
 brew cask install spectacle
 brew cask install macupdate-desktop
-brew cask install omnioutliner
 brew cask install growlnotify
 
 #from original
-brew cask install google-chrome-canary
 brew cask install imagealpha
 brew cask install imageoptim
 brew cask install miro-video-converter
-brew cask install sublime-text
-brew cask install tor-browser
+brew cask install sublime-text3
 
 brew tap homebrew/versions
 install lua52
